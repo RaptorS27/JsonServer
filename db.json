@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Tomates",
+    "img": "https://via.placeholder.com/600/92c952",
+    "Descripcion": "https://via.placeholder.com/150/92c952"
+  },
+  {
+    "id": 2,
+    "title": "Pepinos",
+    "img": "https://via.placeholder.com/600/771796",
+    "Descripcion": "https://via.placeholder.com/150/771796"
+  },
+  {
+    "id": 3,
+    "title": "Melocotones",
+    "img": "https://via.placeholder.com/600/24f355",
+    "Descripcion": "https://via.placeholder.com/150/24f355"
+  }
+]
